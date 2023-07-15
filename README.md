@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-🚀 Skills in python, tailwind, html, javascript 
-🌱 Learning and practicing TensorFlow, OpenCV ...
-🎯 Studying Unity, godot and deeping in the above technologies 
-🌐 Trying to improve English and Norwegian 
-⚡ I have a deep appreciation for Scandinavian culture, and I am particularly enamored with fjords and their breathtaking beauty
+- 🚀 Skills in python, tailwind, html, javascript 
+- 🌱 Learning and practicing TensorFlow, OpenCV ...
+- 🎯 Studying Unity, godot and deeping in the above technologies 
+- 🌐 Trying to improve English and Norwegian 
+- ⚡ I have a deep appreciation for Scandinavian culture, and I am particularly enamored with fjords and their breathtaking beauty
 
