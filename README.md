@@ -4,7 +4,7 @@ Hi 👋 My name is Lucas Sampaio
 Hello, I am from Ceará Brazil!! 
 - 🚀 Skills in python, tailwind, html, javascript 
 - 🔨 Learning and practicing python, c++
-- 🎯 Studying godot and deeping in the above technologies 
+- 🎯 Studying Unity and deeping in the above technologies 
 - 🌐 Trying to improve English  
 - ⚡ 
 * ✉️  You can contact me at [lucassampaio2005devx@gmail.com](mailto:lucassampaio2005devx@gmail.com)
